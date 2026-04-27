@@ -1,0 +1,1 @@
+# Shoppersstack-Bug-Report
